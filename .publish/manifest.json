@@ -1,21 +1,6 @@
 {
   "schema_version": 1,
-  "exporter_version": "0.1.0",
-  "policy_version": "1",
-  "source": {
-    "repository": "rlaqudwn1/personal-wiki",
-    "commit": "45212fc939b16bba837a0208d4864815c301312a"
-  },
-  "target": {
-    "repository": "rlaqudwn1/rlaqudwn1.github.io",
-    "managed_subtree": "content/wiki"
-  },
-  "files": [
-    {
-      "path": "content/wiki/20-Projects/HYMAX_ERP/Troubleshooting/Concepts/내구성-있는-검사-산출물.md",
-      "bytes": 611,
-      "sha256": "295e3b0fe6ac0f858f11250963bf73fc15f1401632486f244fa40ad512ab950b"
-    }
-  ],
-  "manifest_sha256": "547a6fe17e25f7406e00b92ac933fb948ba9cd23e7ebaecc9a71b53557267402"
+  "status": "placeholder",
+  "managed_subtree": "content/wiki",
+  "files": []
 }
